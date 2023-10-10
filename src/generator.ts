@@ -21,7 +21,8 @@ import {
  * Run via `npm run generate`
  */
 async function run() {
-  const tokenlistsToBuild = getTokenlistsToBuild()
+  const tokenlistsToBuild = ['symmetric']
+  // getTokenlistsToBuild()
   for (const tokenlist of tokenlistsToBuild) {
     console.log(chalk.bgGreen(`Building tokenlist: ${tokenlist}`))
     await build(tokenlist)
@@ -168,13 +169,14 @@ async function setTokenInfo(
     return formatMetadata(metadata)
   }
 
-  const coingeckoMetadata = await fetchCoingeckoMetadata(network, address)
-  // Again, we want the coingecko data to be used only if it's missing from existing data.
-  metadata = merge(coingeckoMetadata, metadata)
+  // const coingeckoMetadata = await fetchCoingeckoMetadata(network, address)
+  // // Again, we want the coingecko data to be used only if it's missing from existing data.
+  // metadata = merge(coingeckoMetadata, metadata)
 
-  if (satisfiesTokenInfoSchema({ token: metadata, includeOptionals: false })) {
-    return formatMetadata(metadata)
-  } else {
+  // if (satisfiesTokenInfoSchema({ token: metadata, includeOptionals: false })) {
+  //   return formatMetadata(metadata)
+  // }
+  else {
     console.warn('Failed to generate token info for:', metadata)
     return undefined
   }

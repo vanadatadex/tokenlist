@@ -64,6 +64,7 @@ export async function getTokenlistSrc(tokenlistName: string): Promise<{
     throw new Error(`Metadata file not found for tokenlist: ${tokenlistName}`)
   }
   try {
+    console.log(tokensPath)
     tokens = await import(tokensPath)
   } catch (error) {
     throw new Error(`Tokens file not found for tokenlist: ${tokenlistName}`)

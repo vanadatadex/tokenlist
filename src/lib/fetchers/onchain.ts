@@ -5,11 +5,11 @@ import { Multicaller } from '../multicaller'
 import ERC20_ABI from '../abi/ERC20.abi.json'
 
 function getProvider(network: Network): InfuraProvider | JsonRpcProvider {
-  if (!process.env.INFURA_KEY) throw new Error('Missing INFURA_KEY env var')
   const networkConfig = config[network]
   if (networkConfig.rpc) {
     return new JsonRpcProvider(networkConfig.rpc)
   }
+  if (!process.env.INFURA_KEY) throw new Error('Missing INFURA_KEY env var')
   return new InfuraProvider(Number(network), process.env.INFURA_KEY)
 }
 
