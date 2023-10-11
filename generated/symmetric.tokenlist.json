@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2023-10-10T10:45:30.530Z",
+    "timestamp": "2023-10-10T10:54:27.403Z",
     "tokens": [
         {
             "chainId": 41,
@@ -39,7 +39,7 @@
             "name": "USDC",
             "symbol": "USDC",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png"
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         {
             "chainId": 41,
@@ -47,7 +47,7 @@
             "name": "USDT",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
         }
     ]
 }

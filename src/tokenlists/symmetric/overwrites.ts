@@ -17,11 +17,11 @@ export const overwrites: OverwritesForList = {
     },
     '0xF9485b3fffd191e28a089C21cD745cc228a181E3': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png',
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
     },
     '0x39D33701581EE17DfF7dBeEcCC35210aEE7B0417': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7.png',
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
     },
   },
 }
