@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2023-10-10T10:54:27.403Z",
+    "timestamp": "2023-10-31T12:39:46.904Z",
     "tokens": [
         {
             "chainId": 41,
@@ -23,7 +23,7 @@
             "name": "Wrapped TLOS",
             "symbol": "WTLOS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x98BD57444603C66b736Fd0AeFCBE494c8Ee32C71.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xf5dd4a1fce57d9acd7a4fef03709402014b56813.png"
         },
         {
             "chainId": 41,
