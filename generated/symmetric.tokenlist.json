@@ -7,8 +7,40 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2023-10-31T12:39:46.904Z",
+    "timestamp": "2023-11-06T11:01:20.992Z",
     "tokens": [
+        {
+            "chainId": 40,
+            "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+            "name": "Wrapped TLOS",
+            "symbol": "WTLOS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xf5dd4a1fce57d9acd7a4fef03709402014b56813.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x98BD57444603C66b736Fd0AeFCBE494c8Ee32C71",
+            "name": "Staked TLOS",
+            "symbol": "STLOS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x98bd57444603c66b736fd0aefcbe494c8ee32c71.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x8D97Cea50351Fb4329d591682b148D43a0C3611b",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
         {
             "chainId": 41,
             "address": "0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4",

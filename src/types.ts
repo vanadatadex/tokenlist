@@ -11,6 +11,7 @@ export enum Network {
   Arbitrum = '42161',
   Avalanche = '43114',
   Sepolia = '11155111',
+  Telos = '40',
   TelosTestnet = '41',
 }
 

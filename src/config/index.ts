@@ -9,6 +9,7 @@ import optimism from './optimism'
 import polygon from './polygon'
 import sepolia from './sepolia'
 import zkevm from './zkevm'
+import telos from './telos'
 import telosTestnet from './telos-testnet'
 
 const config: Configs = {
@@ -22,6 +23,7 @@ const config: Configs = {
   [Network.Polygon]: polygon,
   [Network.Sepolia]: sepolia,
   [Network.Zkevm]: zkevm,
+  [Network.Telos]: telos,
   [Network.TelosTestnet]: telosTestnet,
 }
 
