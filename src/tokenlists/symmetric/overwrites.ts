@@ -5,11 +5,11 @@ export const overwrites: OverwritesForList = {
   [Network.Telos]: {
     '0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xf5dd4a1fce57d9acd7a4fef03709402014b56813.png',
+        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png',
     },
     '0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x98BD57444603C66b736Fd0AeFCBE494c8Ee32C71.png',
+        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png',
     },
     '0x8d97cea50351fb4329d591682b148d43a0c3611b': {
       logoURI:
@@ -27,11 +27,11 @@ export const overwrites: OverwritesForList = {
     },
     '0xF5Dd4A1fCE57D9aCd7a4fEF03709402014b56813': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xf5dd4a1fce57d9acd7a4fef03709402014b56813.png',
+        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png',
     },
     '0x98BD57444603C66b736Fd0AeFCBE494c8Ee32C71': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x98BD57444603C66b736Fd0AeFCBE494c8Ee32C71.png',
+        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png',
     },
     '0xF9485b3fffd191e28a089C21cD745cc228a181E3': {
       logoURI:

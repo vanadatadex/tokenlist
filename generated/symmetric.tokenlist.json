@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2023-11-08T11:45:28.878Z",
+    "timestamp": "2023-11-22T10:37:16.328Z",
     "tokens": [
         {
             "chainId": 40,
@@ -15,7 +15,7 @@
             "name": "Wrapped TLOS",
             "symbol": "WTLOS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xf5dd4a1fce57d9acd7a4fef03709402014b56813.png"
+            "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png"
         },
         {
             "chainId": 40,
@@ -23,7 +23,7 @@
             "name": "Staked TLOS",
             "symbol": "STLOS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x98BD57444603C66b736Fd0AeFCBE494c8Ee32C71.png"
+            "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png"
         },
         {
             "chainId": 40,
@@ -55,7 +55,7 @@
             "name": "Wrapped TLOS",
             "symbol": "WTLOS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xf5dd4a1fce57d9acd7a4fef03709402014b56813.png"
+            "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png"
         },
         {
             "chainId": 41,
