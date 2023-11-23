@@ -3,6 +3,10 @@ import { Network, OverwritesForList } from '../../types'
 
 export const overwrites: OverwritesForList = {
   [Network.Telos]: {
+    '0xd5f2a24199C3DFc44C1Bf8B1C01aB147809434Ca': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/TSYMM.png',
+    },
     '0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E': {
       logoURI:
         'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png',

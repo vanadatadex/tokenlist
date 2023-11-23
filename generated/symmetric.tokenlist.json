@@ -7,8 +7,16 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2023-11-22T10:37:16.328Z",
+    "timestamp": "2023-11-23T12:26:50.988Z",
     "tokens": [
+        {
+            "chainId": 40,
+            "address": "0xd5f2a24199C3DFc44C1Bf8B1C01aB147809434Ca",
+            "name": "Symmetric on Telos",
+            "symbol": "tSYMM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/TSYMM.png"
+        },
         {
             "chainId": 40,
             "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
