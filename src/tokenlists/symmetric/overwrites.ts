@@ -7,6 +7,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/TSYMM.png',
     },
+    '0xbf0fa44e5611c31429188b7dcc59ffe794d1980e': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xbf0fa44e5611c31429188b7dcc59ffe794d1980e',
+    },
     '0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E': {
       logoURI:
         'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png',

@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2023-11-23T12:26:50.988Z",
+    "timestamp": "2023-11-27T10:25:15.851Z",
     "tokens": [
         {
             "chainId": 40,
@@ -16,6 +16,14 @@
             "symbol": "tSYMM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/TSYMM.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0xbf0FA44e5611C31429188B7dcc59ffe794D1980e",
+            "name": "Symmetric 80 TSYMM 20 WTLOS",
+            "symbol": "S-80TSYMM-20WTLOS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0xbf0fa44e5611c31429188b7dcc59ffe794d1980e"
         },
         {
             "chainId": 40,
