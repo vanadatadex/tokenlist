@@ -27,6 +27,29 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
     },
+    '0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9': {
+      logoURI:
+        'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9/logo.png',
+    },
+    '0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC': {
+      logoURI:
+        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/BTC.b.png',
+    },
+    '0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50': {
+      logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
+    },
+    '0x26Ed0F16e777C94A6FE798F9E20298034930Bae8': {
+      logoURI:
+        'https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png',
+    },
+    '0x568524DA340579887db50Ecf602Cd1BA8451b243': {
+      logoURI:
+        'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x568524DA340579887db50Ecf602Cd1BA8451b243/logo.png',
+    },
+    '0x058D4893eFa235D86CcEeD5a7Eef0809B76c8c66': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/USDC-USDT.png',
+    },
   },
   [Network.TelosTestnet]: {
     '0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4': {
