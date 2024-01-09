@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2023-12-20T15:33:14.721Z",
+    "timestamp": "2024-01-09T18:24:53.733Z",
     "tokens": [
         {
             "chainId": 40,
@@ -31,7 +31,7 @@
             "name": "Wrapped TLOS",
             "symbol": "WTLOS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png"
+            "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png"
         },
         {
             "chainId": 40,

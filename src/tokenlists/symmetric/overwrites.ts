@@ -13,7 +13,7 @@ export const overwrites: OverwritesForList = {
     },
     '0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E': {
       logoURI:
-        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png',
+        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png',
     },
     '0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905': {
       logoURI:
