@@ -50,6 +50,25 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/USDC-USDT.png',
     },
+    '0xA6A5FE78A12ae40BEd9300dA6DE624c089F77ac2': {
+      logoURI:
+        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png',
+    },
+    '0x7d94D2F6f91ED5ED0104D89B3D263026D990Ac5f': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+    },
+    '0xcE08cFf82fB1B6902a7Dca2Ccd2d164Bc2B5B1Cd': {
+      logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
+    },
+    '0x3D187a993D946f196429c83f9A1831513AC2D2BE': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
+    },
+    '0xb99C43d3bce4c8Ad9B95a4A178B04a7391b2a6EB': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/RF.png',
+    },
   },
   [Network.TelosTestnet]: {
     '0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4': {
