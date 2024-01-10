@@ -52,11 +52,11 @@ export const overwrites: OverwritesForList = {
     },
     '0xA6A5FE78A12ae40BEd9300dA6DE624c089F77ac2': {
       logoURI:
-        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png',
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
     },
     '0x7d94D2F6f91ED5ED0104D89B3D263026D990Ac5f': {
       logoURI:
-        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png',
     },
     '0xcE08cFf82fB1B6902a7Dca2Ccd2d164Bc2B5B1Cd': {
       logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
