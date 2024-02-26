@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-01-10T19:51:33.724Z",
+    "timestamp": "2024-02-26T13:16:37.193Z",
     "tokens": [
         {
             "chainId": 40,
@@ -144,6 +144,22 @@
             "symbol": "RF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/RF.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9",
+            "name": "KINDNESS FOR THE SOUL ",
+            "symbol": "TKIND",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x78E05bC07e498f3191288c72a96Fe1c4f7f6Bdef",
+            "name": "KINDNESS FOR THE SOUL ",
+            "symbol": "TSOUL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x78E05bC07e498f3191288c72a96Fe1c4f7f6Bdef/logo.png"
         },
         {
             "chainId": 41,

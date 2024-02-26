@@ -69,6 +69,14 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/RF.png',
     },
+    '0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9': {
+      logoURI:
+        'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9/logo.png',
+    },
+    '0x78E05bC07e498f3191288c72a96Fe1c4f7f6Bdef': {
+      logoURI:
+        'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x78E05bC07e498f3191288c72a96Fe1c4f7f6Bdef/logo.png',
+    },
   },
   [Network.TelosTestnet]: {
     '0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4': {
