@@ -77,6 +77,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x78E05bC07e498f3191288c72a96Fe1c4f7f6Bdef/logo.png',
     },
+    '0xb754619F355eF11cb36cce70784767bA92264330': {
+      logoURI:
+        'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xb754619F355eF11cb36cce70784767bA92264330/logo.png',
+    },
   },
   [Network.TelosTestnet]: {
     '0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4': {

@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-02-26T13:16:37.193Z",
+    "timestamp": "2024-03-19T15:16:50.899Z",
     "tokens": [
         {
             "chainId": 40,
@@ -160,6 +160,14 @@
             "symbol": "TSOUL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x78E05bC07e498f3191288c72a96Fe1c4f7f6Bdef/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0xb754619F355eF11cb36cce70784767bA92264330",
+            "name": "Trump",
+            "symbol": "Trump",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xb754619F355eF11cb36cce70784767bA92264330/logo.png"
         },
         {
             "chainId": 41,
