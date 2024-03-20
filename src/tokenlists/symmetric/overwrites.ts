@@ -81,6 +81,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xb754619F355eF11cb36cce70784767bA92264330/logo.png',
     },
+    '0xe9F5Cb51f507436E3DdDA226c8d3dF62FA3E6368': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/CMDR.png',
+    },
   },
   [Network.TelosTestnet]: {
     '0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4': {
