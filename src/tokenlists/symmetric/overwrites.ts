@@ -85,6 +85,14 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/CMDR.png',
     },
+    '0xa3b4AeE7B43B2Fb390420c411ec180B0ae87E9da': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/KINDS.png',
+    },
+    '0xF81C9681492Db93031a78290bD50E748A4Cb8ba7': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SOULS.png',
+    },
   },
   [Network.TelosTestnet]: {
     '0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4': {

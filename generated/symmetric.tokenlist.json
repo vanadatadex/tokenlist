@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-03-20T08:20:31.485Z",
+    "timestamp": "2024-03-25T23:37:02.123Z",
     "tokens": [
         {
             "chainId": 40,
@@ -176,6 +176,22 @@
             "symbol": "CMDR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/CMDR.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0xa3b4AeE7B43B2Fb390420c411ec180B0ae87E9da",
+            "name": "KINDNESS FOR SOULS",
+            "symbol": "SOULS ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/KINDS.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0xF81C9681492Db93031a78290bD50E748A4Cb8ba7",
+            "name": "KINDNESS FOR SOULS",
+            "symbol": "KINDS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SOULS.png"
         },
         {
             "chainId": 41,
