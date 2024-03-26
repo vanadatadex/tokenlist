@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-03-25T23:56:37.427Z",
+    "timestamp": "2024-03-26T00:30:37.875Z",
     "tokens": [
         {
             "chainId": 40,
@@ -167,7 +167,7 @@
             "name": "KINDNESS FOR SOULS",
             "symbol": "SOULS ",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/KINDS.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SOULS.png"
         },
         {
             "chainId": 40,
@@ -175,7 +175,7 @@
             "name": "KINDNESS FOR SOULS",
             "symbol": "KINDS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SOULS.png"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/KINDS.png"
         },
         {
             "chainId": 41,
