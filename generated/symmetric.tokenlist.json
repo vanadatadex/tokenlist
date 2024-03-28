@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-03-27T00:26:04.224Z",
+    "timestamp": "2024-03-28T09:49:56.208Z",
     "tokens": [
         {
             "chainId": 40,
@@ -216,6 +216,78 @@
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0x6ab5792b887Eb3F63A8915240F926e829982d3F5",
+            "name": "Symmetric on Meter",
+            "symbol": "tSYMM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/mSYMM.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
+            "name": "MeterGov",
+            "symbol": "MTRG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
+            "name": "Staked MTRG",
+            "symbol": "stMTRG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x215d603293357ca222be92a1bf75eec38def0aad.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+            "name": "Sumerian USD",
+            "symbol": "suUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x8bf591eae535f93a242d5a954d3cde648b48a5a8.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
+            "name": "ETH from Ethereum on Meter",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x983147fb73a45fc7f8b4dfa1cd61bdc7b111e5b6.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0xD86e243FC0007e6226B07c9A50C9d70D78299EB5",
+            "name": "Wrapped USDC from Ethereum",
+            "symbol": "USDC.eth",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0xd86e243fc0007e6226b07c9a50c9d70d78299eb5.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
+            "name": "Wrapped USDT from Ethereum on Meter",
+            "symbol": "USDT.eth",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x5fa41671c48e3c951afc30816947126ccc8c162e.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0x160361ce13ec33C993b5cCA8f62B6864943eb083",
+            "name": "Wrapped MTR",
+            "symbol": "WMTR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x160361ce13ec33c993b5cca8f62b6864943eb083.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
+            "name": "BNB from BSC on Meter",
+            "symbol": "BNB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0xf0e86246519be0810c9fafc8430c49799985aaa8.png"
         }
     ]
 }

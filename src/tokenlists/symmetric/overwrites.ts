@@ -94,6 +94,44 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/KINDS.png',
     },
   },
+  [Network.Meter]: {
+    '0x6ab5792b887Eb3F63A8915240F926e829982d3F5': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/mSYMM.png',
+    }, //mSYMM
+    '0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3': {
+      logoURI:
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3.png',
+    }, //MTRG
+    '0x215d603293357ca222be92a1bf75eec38def0aad': {
+      logoURI:
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x215d603293357ca222be92a1bf75eec38def0aad.png',
+    }, //stMTRG
+    '0x8bf591eae535f93a242d5a954d3cde648b48a5a8': {
+      logoURI:
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x8bf591eae535f93a242d5a954d3cde648b48a5a8.png',
+    }, //suUSD
+    '0x983147fb73a45fc7f8b4dfa1cd61bdc7b111e5b6': {
+      logoURI:
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x983147fb73a45fc7f8b4dfa1cd61bdc7b111e5b6.png',
+    }, //ETH
+    '0xd86e243fc0007e6226b07c9a50c9d70d78299eb5': {
+      logoURI:
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0xd86e243fc0007e6226b07c9a50c9d70d78299eb5.png',
+    }, //USDC.eth
+    '0x5fa41671c48e3c951afc30816947126ccc8c162e': {
+      logoURI:
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x5fa41671c48e3c951afc30816947126ccc8c162e.png',
+    }, //USDT.eth
+    '0x160361ce13ec33c993b5cca8f62b6864943eb083': {
+      logoURI:
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x160361ce13ec33c993b5cca8f62b6864943eb083.png',
+    }, //MTR
+    '0xf0e86246519be0810c9fafc8430c49799985aaa8': {
+      logoURI:
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0xf0e86246519be0810c9fafc8430c49799985aaa8.png',
+    }, //BNB
+  },
   [Network.TelosTestnet]: {
     '0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4': {
       logoURI:

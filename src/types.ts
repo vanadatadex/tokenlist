@@ -12,6 +12,7 @@ export enum Network {
   Avalanche = '43114',
   Sepolia = '11155111',
   Telos = '40',
+  Meter = '82',
   TelosTestnet = '41',
 }
 

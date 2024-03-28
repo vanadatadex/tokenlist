@@ -10,6 +10,7 @@ import polygon from './polygon'
 import sepolia from './sepolia'
 import zkevm from './zkevm'
 import telos from './telos'
+import meter from './meter'
 import telosTestnet from './telos-testnet'
 
 const config: Configs = {
@@ -24,6 +25,7 @@ const config: Configs = {
   [Network.Sepolia]: sepolia,
   [Network.Zkevm]: zkevm,
   [Network.Telos]: telos,
+  [Network.Meter]: meter,
   [Network.TelosTestnet]: telosTestnet,
 }
 
