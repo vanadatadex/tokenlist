@@ -95,7 +95,7 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Meter]: {
-    '0x6ab5792b887Eb3F63A8915240F926e829982d3F5': {
+    '0x663345e09F4F4437F3D5df39BA5c2B5690532206': {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/mSYMM.png',
     }, //mSYMM

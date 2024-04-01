@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-03-28T09:49:56.208Z",
+    "timestamp": "2024-04-01T07:57:10.258Z",
     "tokens": [
         {
             "chainId": 40,
@@ -219,9 +219,9 @@
         },
         {
             "chainId": 82,
-            "address": "0x6ab5792b887Eb3F63A8915240F926e829982d3F5",
+            "address": "0x663345e09F4F4437F3D5df39BA5c2B5690532206",
             "name": "Symmetric on Meter",
-            "symbol": "tSYMM",
+            "symbol": "mSYMM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/mSYMM.png"
         },
