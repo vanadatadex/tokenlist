@@ -125,7 +125,7 @@ export const overwrites: OverwritesForList = {
     }, //USDT.eth
     '0x160361ce13ec33c993b5cca8f62b6864943eb083': {
       logoURI:
-        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x160361ce13ec33c993b5cca8f62b6864943eb083.png',
+        'https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png',
     }, //MTR
     '0xf0e86246519be0810c9fafc8430c49799985aaa8': {
       logoURI:
