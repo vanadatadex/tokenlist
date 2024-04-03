@@ -131,6 +131,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0xf0e86246519be0810c9fafc8430c49799985aaa8.png',
     }, //BNB
+    '0x1ff97abe4c5a4b7ff90949b637e71626bef0dcee': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x1ff97abe4c5a4b7ff90949b637e71626bef0dcee.png',
+    }, //USDT-uSDC-suUSD
   },
   [Network.TelosTestnet]: {
     '0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4': {
