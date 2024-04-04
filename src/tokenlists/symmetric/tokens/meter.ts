@@ -2,6 +2,7 @@ export default [
   '0x663345e09F4F4437F3D5df39BA5c2B5690532206', //mSYMM
   '0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3', //MTRG
   '0x215d603293357ca222be92a1bf75eec38def0aad', //stMTRG
+  '0xe2de616fbd8cb9180b26fcfb1b761a232fe56717', //wstMTRG
   '0x8bf591eae535f93a242d5a954d3cde648b48a5a8', //suUSD
   '0x983147fb73a45fc7f8b4dfa1cd61bdc7b111e5b6', //ETH
   '0xd86e243fc0007e6226b07c9a50c9d70d78299eb5', //USDC.eth

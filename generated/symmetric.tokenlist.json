@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-04-03T11:11:25.480Z",
+    "timestamp": "2024-04-04T07:30:34.667Z",
     "tokens": [
         {
             "chainId": 40,
@@ -240,6 +240,14 @@
             "symbol": "stMTRG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x215d603293357ca222be92a1bf75eec38def0aad.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
+            "name": "Wrapped liquid staked MTRG",
+            "symbol": "wstMTRG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0xe2de616fbd8cb9180b26fcfb1b761a232fe56717.png"
         },
         {
             "chainId": 82,

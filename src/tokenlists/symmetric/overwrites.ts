@@ -107,6 +107,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x215d603293357ca222be92a1bf75eec38def0aad.png',
     }, //stMTRG
+    '0xe2de616fbd8cb9180b26fcfb1b761a232fe56717': {
+      logoURI:
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0xe2de616fbd8cb9180b26fcfb1b761a232fe56717.png',
+    }, //stMTRG
     '0x8bf591eae535f93a242d5a954d3cde648b48a5a8': {
       logoURI:
         'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x8bf591eae535f93a242d5a954d3cde648b48a5a8.png',
