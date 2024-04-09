@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-04-04T07:30:34.667Z",
+    "timestamp": "2024-04-09T11:49:52.759Z",
     "tokens": [
         {
             "chainId": 40,
@@ -304,6 +304,14 @@
             "symbol": "USDT-USDC-suUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/0x1ff97abe4c5a4b7ff90949b637e71626bef0dcee.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0x5647f6cc997e45b81d786bAa9ECd8A1ad40Ef25f",
+            "name": "MST",
+            "symbol": "MST",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x568524DA340579887db50Ecf602Cd1BA8451b243/logo.png"
         }
     ]
 }
