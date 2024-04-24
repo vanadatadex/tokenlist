@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-04-09T11:49:52.759Z",
+    "timestamp": "2024-04-24T12:21:54.605Z",
     "tokens": [
         {
             "chainId": 40,
@@ -312,6 +312,54 @@
             "symbol": "MST",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x568524DA340579887db50Ecf602Cd1BA8451b243/logo.png"
+        },
+        {
+            "chainId": 82,
+            "address": "0x2077a828fD58025655335a8756dBcfEB7e5BeC46",
+            "name": "MTRG-wstMTRG Stable Pool",
+            "symbol": "MTRG-wstMTRG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/MTRG-wstMTRG.png"
+        },
+        {
+            "chainId": 11822,
+            "address": "0xDFEe275C6491Be5833404d6134a08d81e46b08D8",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 11822,
+            "address": "0x025cBFc6482baB7301e769Dd826e2f7354E30892",
+            "name": "USDT",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 11822,
+            "address": "0x4a869ed6b3f74dC41537EF27e8eB3A8676AE4614",
+            "name": "Symmetric on Artela",
+            "symbol": "aSYMM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/aSYMM.png"
+        },
+        {
+            "chainId": 11822,
+            "address": "0xaDCd43c78A914c6B14171aB1380bCFcfa25cd3AD",
+            "name": "Wrapped Art",
+            "symbol": "WART",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WART.png"
+        },
+        {
+            "chainId": 11822,
+            "address": "0xF9485b3fffd191e28a089C21cD745cc228a181E3",
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
         }
     ]
 }

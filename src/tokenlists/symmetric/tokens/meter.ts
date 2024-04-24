@@ -11,4 +11,5 @@ export default [
   '0xf0e86246519be0810c9fafc8430c49799985aaa8', //BNB
   '0x1ff97abe4c5a4b7ff90949b637e71626bef0dcee', //USDT-uSDC-suUSD
   '0x5647f6cc997e45b81d786baa9ecd8a1ad40ef25f', //MST
+  '0x2077a828fd58025655335a8756dbcfeb7e5bec46', //MTRG-wstMTRG
 ]

@@ -12,6 +12,7 @@ import zkevm from './zkevm'
 import telos from './telos'
 import meter from './meter'
 import telosTestnet from './telos-testnet'
+import artelaBetanet from './artela-betanet'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -27,6 +28,7 @@ const config: Configs = {
   [Network.Telos]: telos,
   [Network.Meter]: meter,
   [Network.TelosTestnet]: telosTestnet,
+  [Network.ArtelaBetanet]: artelaBetanet,
 }
 
 export default config

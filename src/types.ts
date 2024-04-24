@@ -14,6 +14,7 @@ export enum Network {
   Telos = '40',
   Meter = '82',
   TelosTestnet = '41',
+  ArtelaBetanet = '11822',
 }
 
 export interface Config {
