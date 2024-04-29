@@ -93,6 +93,11 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/KINDS.png',
     },
+    '0xfdfF55a36f3dd3942A4Ac5Aebe68972d57296925': {
+      name: 'Wrapped USK',
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WUSK.png',
+    }, //wUSK
   },
   [Network.Meter]: {
     '0x663345e09F4F4437F3D5df39BA5c2B5690532206': {

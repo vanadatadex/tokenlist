@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-04-24T12:21:54.605Z",
+    "timestamp": "2024-04-29T10:44:37.030Z",
     "tokens": [
         {
             "chainId": 40,
@@ -176,6 +176,14 @@
             "symbol": "KINDs",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/KINDS.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0xfdfF55a36f3dd3942A4Ac5Aebe68972d57296925",
+            "name": "Wrapped USK",
+            "symbol": "wUSK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WUSK.png"
         },
         {
             "chainId": 41,
