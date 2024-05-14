@@ -176,11 +176,11 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.ArtelaBetanet]: {
-    '0xdfee275c6491be5833404d6134a08d81e46b08d8': {
+    '0x23625fF2AEC3A5e3459a9FD75661a135c567B072': {
       logoURI:
         'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
     }, //USDC
-    '0x025cbfc6482bab7301e769dd826e2f7354e30892': {
+    '0x729C714A7cbF5599AA121489b0386537b1347e5e': {
       logoURI:
         'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
     }, //USDT
@@ -192,8 +192,17 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WART.png',
     }, //WART
-    '0xF9485b3fffd191e28a089C21cD745cc228a181E3': {
+    '0x7bf8b8Da6E71ebc92383dAf6f32F82b073a303cD': {
       logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
     }, //ETH
+    '0x9c9dF9E55f4770132e586f32741D7e4F80C39B2a': {
+      logoURI: 'https://cryptologos.cc/logos/bitcoin-btc-logo.png',
+    }, //WBTC
+    '0xdfee275c6491be5833404d6134a08d81e46b08d8': {
+      name: 'Artela USD',
+      symbol: 'aUSD',
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+    }, //aUSD
   },
 }

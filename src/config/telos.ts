@@ -1,6 +1,6 @@
 export default {
   name: 'telos',
-  rpc: 'https://mainnet15a.telos.net/evm',
+  rpc: 'https://mainnet15.telos.net/evm',
   coingecko: {
     platformId: 'telos',
   },

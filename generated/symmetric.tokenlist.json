@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-04-29T10:44:37.030Z",
+    "timestamp": "2024-05-14T07:22:16.823Z",
     "tokens": [
         {
             "chainId": 40,
@@ -331,18 +331,18 @@
         },
         {
             "chainId": 11822,
-            "address": "0xDFEe275C6491Be5833404d6134a08d81e46b08D8",
-            "name": "USDC",
+            "address": "0x23625fF2AEC3A5e3459a9FD75661a135c567B072",
+            "name": "USD Coin",
             "symbol": "USDC",
-            "decimals": 6,
+            "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         {
             "chainId": 11822,
-            "address": "0x025cBFc6482baB7301e769Dd826e2f7354E30892",
-            "name": "USDT",
+            "address": "0x729C714A7cbF5599AA121489b0386537b1347e5e",
+            "name": "Tether",
             "symbol": "USDT",
-            "decimals": 6,
+            "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
         },
         {
@@ -363,11 +363,27 @@
         },
         {
             "chainId": 11822,
-            "address": "0xF9485b3fffd191e28a089C21cD745cc228a181E3",
+            "address": "0x7bf8b8Da6E71ebc92383dAf6f32F82b073a303cD",
             "name": "Ethereum",
             "symbol": "ETH",
             "decimals": 18,
             "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+        },
+        {
+            "chainId": 11822,
+            "address": "0x9c9dF9E55f4770132e586f32741D7e4F80C39B2a",
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
+        },
+        {
+            "chainId": 11822,
+            "address": "0xDFEe275C6491Be5833404d6134a08d81e46b08D8",
+            "name": "Artela USD",
+            "symbol": "aUSD",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         }
     ]
 }
