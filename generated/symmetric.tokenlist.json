@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-05-14T07:22:16.823Z",
+    "timestamp": "2024-05-14T12:18:16.337Z",
     "tokens": [
         {
             "chainId": 40,
@@ -357,7 +357,7 @@
             "chainId": 11822,
             "address": "0xaDCd43c78A914c6B14171aB1380bCFcfa25cd3AD",
             "name": "Wrapped Art",
-            "symbol": "WART",
+            "symbol": "wART",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WART.png"
         },

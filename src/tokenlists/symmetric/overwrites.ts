@@ -189,6 +189,7 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/aSYMM.png',
     }, //aSYMM
     '0xaDCd43c78A914c6B14171aB1380bCFcfa25cd3AD': {
+      symbol: 'wART',
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WART.png',
     }, //WART
