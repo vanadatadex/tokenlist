@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-05-14T12:18:16.337Z",
+    "timestamp": "2024-05-27T06:24:49.004Z",
     "tokens": [
         {
             "chainId": 40,
@@ -184,6 +184,22 @@
             "symbol": "wUSK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WUSK.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0xce436C598027B39bcC80094B670A60184a290Fe1",
+            "name": "ALI حيدر",
+            "symbol": "ALI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/ALI.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x836EfDc24A00d42160AF3eF144Af96CBc0c09aa0",
+            "name": "SOULS USD",
+            "symbol": "SUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SUSD.png"
         },
         {
             "chainId": 41,
