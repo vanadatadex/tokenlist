@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-05-27T06:24:49.004Z",
+    "timestamp": "2024-07-02T12:33:57.164Z",
     "tokens": [
         {
             "chainId": 40,
@@ -200,6 +200,54 @@
             "symbol": "SUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SUSD.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x953808eF6BE397925f71Ec0e8892e246882e4804",
+            "name": "ERC4626-Wrapped Meridian Lend USDC",
+            "symbol": "woUSDC",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x181F14262E2EFD4DF781079437eBa1AeD3343898",
+            "name": "ERC4626-Wrapped Meridian Lend USDT",
+            "symbol": "woUSDT",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x8eDc3bDd08980d5F6672F243CEbC58c6C117956A",
+            "name": "ERC4626-Wrapped Meridian Lend USDM",
+            "symbol": "woUSDM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x47355ba67A884FE9AA1B2CB774bF9128E7e0598a",
+            "name": "Meridian Yield Accelerated USDC Pool",
+            "symbol": "myaUSDC",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x0FC39136421aDFD8466E8909de8a7EcDf54f8d31",
+            "name": "Meridian Yield Accelerated USDT Pool",
+            "symbol": "myaUSDT",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x73DFDF2b9A5eD7B032Fa50Dce81De350Aa209Aad",
+            "name": "Meridian Yield Accelerated USDM Pool",
+            "symbol": "myaUSDM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9/logo.png"
         },
         {
             "chainId": 41,

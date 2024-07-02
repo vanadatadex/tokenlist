@@ -106,6 +106,30 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/SUSD.png',
     }, // SUSD
+    '0x953808eF6BE397925f71Ec0e8892e246882e4804': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+    }, //woUSDC
+    '0x181F14262E2EFD4DF781079437eBa1AeD3343898': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
+    }, //woUSDT
+    '0x8eDc3bDd08980d5F6672F243CEbC58c6C117956A': {
+      logoURI:
+        'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9/logo.png',
+    }, //woUSDM
+    '0x47355ba67A884FE9AA1B2CB774bF9128E7e0598a': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+    }, //myaUSDC
+    '0x0FC39136421aDFD8466E8909de8a7EcDf54f8d31': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
+    }, //myaUSDT
+    '0x73DFDF2b9A5eD7B032Fa50Dce81De350Aa209Aad': {
+      logoURI:
+        'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9/logo.png',
+    }, //myaUSDM
   },
   [Network.Meter]: {
     '0x663345e09F4F4437F3D5df39BA5c2B5690532206': {
