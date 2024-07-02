@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-07-02T12:33:57.164Z",
+    "timestamp": "2024-07-02T14:45:00.753Z",
     "tokens": [
         {
             "chainId": 40,
@@ -227,7 +227,7 @@
         },
         {
             "chainId": 40,
-            "address": "0x47355ba67A884FE9AA1B2CB774bF9128E7e0598a",
+            "address": "0x934E800ea1cE2f04E1bD75028928404379D8f3F2",
             "name": "Meridian Yield Accelerated USDC Pool",
             "symbol": "myaUSDC",
             "decimals": 18,
@@ -235,7 +235,7 @@
         },
         {
             "chainId": 40,
-            "address": "0x0FC39136421aDFD8466E8909de8a7EcDf54f8d31",
+            "address": "0xF6a33fD1086BAe6fa913F5354fa1E15207361AC2",
             "name": "Meridian Yield Accelerated USDT Pool",
             "symbol": "myaUSDT",
             "decimals": 18,
@@ -243,7 +243,7 @@
         },
         {
             "chainId": 40,
-            "address": "0x73DFDF2b9A5eD7B032Fa50Dce81De350Aa209Aad",
+            "address": "0x263639Ba4B362de2673B482AF2A8661f4D8fd610",
             "name": "Meridian Yield Accelerated USDM Pool",
             "symbol": "myaUSDM",
             "decimals": 18,
