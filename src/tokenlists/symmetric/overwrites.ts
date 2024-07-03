@@ -118,15 +118,15 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9/logo.png',
     }, //woUSDM
-    '0x934E800ea1cE2f04E1bD75028928404379D8f3F2': {
+    '0x71fd3b5e53E444eD1E8309B578cFfd7D33294C59': {
       logoURI:
         'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
     }, //myaUSDC
-    '0xF6a33fD1086BAe6fa913F5354fa1E15207361AC2': {
+    '0xC8994727BF84B432A9955403e4335A874c1aE919': {
       logoURI:
         'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
     }, //myaUSDT
-    '0x263639Ba4B362de2673B482AF2A8661f4D8fd610': {
+    '0x542A31176829f9DdA137942C7CABbb4533523aD3': {
       logoURI:
         'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9/logo.png',
     }, //myaUSDM
