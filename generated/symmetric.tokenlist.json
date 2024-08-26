@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-07-03T06:44:17.067Z",
+    "timestamp": "2024-08-26T19:49:56.960Z",
     "tokens": [
         {
             "chainId": 40,
@@ -248,6 +248,14 @@
             "symbol": "myaUSDM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0xbB5cA1404CeEd710487af13879e8aa9e36DE1Ac3",
+            "name": "Tapas Token",
+            "symbol": "TAPA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/TAPAS.jpg"
         },
         {
             "chainId": 41,

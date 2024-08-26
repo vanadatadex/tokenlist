@@ -130,6 +130,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9/logo.png',
     }, //myaUSDM
+    '0xbB5cA1404CeEd710487af13879e8aa9e36DE1Ac3': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/TAPAS.jpg',
+    }, //TAPAS
   },
   [Network.Meter]: {
     '0x663345e09F4F4437F3D5df39BA5c2B5690532206': {
