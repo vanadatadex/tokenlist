@@ -242,4 +242,59 @@ export const overwrites: OverwritesForList = {
         'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
     }, //aUSD
   },
+  [Network.Taiko]: {
+    '0xA51894664A773981C6C112C43ce576f315d5b1B6': {
+      logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
+    }, // WETH
+    '0x9c9D0025F27756217BDBb584cFB9Dd4aA58B1FEc': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/tkSYMM.png',
+    }, // tkSYMM
+    '0xa9d23408b9ba935c230493c40c73824df71a0975': {
+      logoURI:
+        'https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/tko.svg',
+    }, //TAIKO
+    '0x07d83526730c7438048d55a4fc0b850e2aab6f0b': {
+      logoURI: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.svg',
+    }, //USDC
+    '0x2def195713cf4a606b49d07e520e22c17899a736': {
+      logoURI: 'https://cryptologos.cc/logos/tether-usdt-logo.svg',
+    }, //USDT
+    '0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C': {
+      logoURI: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.svg',
+    }, //USDC.e
+    '0x9c2dc7377717603eB92b2655c5f2E7997a4945BD': {
+      logoURI: 'https://cryptologos.cc/logos/tether-usdt-logo.svg',
+    }, // USDT
+    '0x473C58b748156D3249cA31Baa3cAd9781EB6d97e': {
+      logoURI: 'https://cryptologos.cc/logos/rocket-pool-eth-reth-logo.svg',
+    }, //rETH
+    '0xc4C410459fbaF8f7F86b6cEE52b4fA1282FF9704': {
+      logoURI: 'https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg',
+    }, //WBTC
+    '0x7d02A3E0180451B17e5D7f29eF78d06F8117106C': {
+      logoURI: 'https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg',
+    }, //DAI
+  },
+  [Network.Etherlink]: {
+    '0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9': {
+      logoURI: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.svg',
+    }, // USDC
+    '0x2C03058C8AFC06713be23e58D2febC8337dbfE6A': {
+      logoURI: 'https://cryptologos.cc/logos/tether-usdt-logo.svg',
+    }, //USDT
+    '0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb': {
+      logoURI: 'https://cryptologos.cc/logos/tezos-xtz-logo.svg',
+    }, // WXTZ
+    '0xfc24f770F94edBca6D6f885E12d4317320BcB401': {
+      logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
+    }, // WETH
+    '0x332e0bf729f06C9e08ffA42ABb1312Fcd16289e7': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/eSYMM.svg',
+    }, // eSYMM
+    '0xbFc94CD2B1E55999Cfc7347a9313e88702B83d0F': {
+      logoURI: 'https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg',
+    }, // WBTC
+  },
 }

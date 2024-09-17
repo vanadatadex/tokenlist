@@ -13,6 +13,8 @@ import telos from './telos'
 import meter from './meter'
 import telosTestnet from './telos-testnet'
 import artelaBetanet from './artela-betanet'
+import taiko from './taiko'
+import etherlink from './etherlink'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
@@ -29,6 +31,8 @@ const config: Configs = {
   [Network.Meter]: meter,
   [Network.TelosTestnet]: telosTestnet,
   [Network.ArtelaBetanet]: artelaBetanet,
+  [Network.Taiko]: taiko,
+  [Network.Etherlink]: etherlink,
 }
 
 export default config
