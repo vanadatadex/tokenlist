@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-09-17T23:47:46.992Z",
+    "timestamp": "2024-09-19T14:13:36.464Z",
     "tokens": [
         {
             "chainId": 40,
@@ -471,7 +471,7 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg"
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
         },
         {
             "chainId": 42793,
@@ -479,7 +479,7 @@
             "name": "Wrapped XTZ",
             "symbol": "WXTZ",
             "decimals": 18,
-            "logoURI": "https://cryptologos.cc/logos/tezos-xtz-logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/xtz.svg"
         },
         {
             "chainId": 42793,
@@ -543,7 +543,7 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg"
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
         },
         {
             "chainId": 167000,
@@ -556,10 +556,10 @@
         {
             "chainId": 167000,
             "address": "0x9c2dc7377717603eB92b2655c5f2E7997a4945BD",
-            "name": "Tether USD",
+            "name": "Bridged Tether USD (Stargate)",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg"
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
         },
         {
             "chainId": 167000,

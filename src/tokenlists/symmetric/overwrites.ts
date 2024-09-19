@@ -258,13 +258,16 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.svg',
     }, //USDC
     '0x2def195713cf4a606b49d07e520e22c17899a736': {
-      logoURI: 'https://cryptologos.cc/logos/tether-usdt-logo.svg',
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
     }, //USDT
     '0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C': {
       logoURI: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.svg',
     }, //USDC.e
     '0x9c2dc7377717603eB92b2655c5f2E7997a4945BD': {
-      logoURI: 'https://cryptologos.cc/logos/tether-usdt-logo.svg',
+      name: 'Bridged Tether USD (Stargate)',
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
     }, // USDT
     '0x473C58b748156D3249cA31Baa3cAd9781EB6d97e': {
       logoURI: 'https://cryptologos.cc/logos/rocket-pool-eth-reth-logo.svg',
@@ -281,10 +284,12 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://cryptologos.cc/logos/usd-coin-usdc-logo.svg',
     }, // USDC
     '0x2C03058C8AFC06713be23e58D2febC8337dbfE6A': {
-      logoURI: 'https://cryptologos.cc/logos/tether-usdt-logo.svg',
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
     }, //USDT
     '0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb': {
-      logoURI: 'https://cryptologos.cc/logos/tezos-xtz-logo.svg',
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/xtz.svg',
     }, // WXTZ
     '0xfc24f770F94edBca6D6f885E12d4317320BcB401': {
       logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
