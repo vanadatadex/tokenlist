@@ -302,4 +302,22 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg',
     }, // WBTC
   },
+  [Network.VanaMoksha]: {
+    '0xB39a50B5806039C82932bB96CEFbcbc61231045C': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+    }, //USDC
+    '0x01079C78199e05D44bBFF9E50Dbdf765489F16E1': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
+    }, //USDT
+    '0xbccc4b4c6530F82FE309c5E845E50b5E9C89f2AD': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
+    }, //WVANA
+    '0x3216EF647DFb90B73176e33fFe34EFF2456813A3': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VSYMM.svg',
+    }, //VSYMM
+  },
 }

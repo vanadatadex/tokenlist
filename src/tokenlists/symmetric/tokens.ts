@@ -5,6 +5,7 @@ import meter from './tokens/meter'
 import artelaBetanet from './tokens/artela-betanet'
 import taiko from './tokens/taiko'
 import etherlink from './tokens/etherlink'
+import vanaMoksha from './tokens/vana-moksha'
 
 export const tokens = {
   [Network.Telos]: telos,
@@ -13,4 +14,5 @@ export const tokens = {
   [Network.ArtelaBetanet]: artelaBetanet,
   [Network.Taiko]: taiko,
   [Network.Etherlink]: etherlink,
+  [Network.VanaMoksha]: vanaMoksha,
 }

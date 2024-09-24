@@ -41,6 +41,5 @@ export async function fetchOnchainMetadata(
         abi: ERC20_ABI,
       })
   }
-
   return multicaller.fetch()
 }

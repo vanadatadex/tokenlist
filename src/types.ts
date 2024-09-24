@@ -17,6 +17,7 @@ export enum Network {
   ArtelaBetanet = '11822',
   Taiko = '167000',
   Etherlink = '42793',
+  VanaMoksha = '14800',
 }
 
 export interface Config {
