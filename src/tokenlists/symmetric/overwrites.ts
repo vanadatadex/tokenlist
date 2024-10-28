@@ -312,6 +312,8 @@ export const overwrites: OverwritesForList = {
         'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
     }, //USDT
     '0xbccc4b4c6530F82FE309c5E845E50b5E9C89f2AD': {
+      name: 'Wrapped Vana',
+      symbol: 'VANA',
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
     }, //WVANA
