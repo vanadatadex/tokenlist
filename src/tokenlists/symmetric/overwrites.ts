@@ -319,5 +319,13 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VSYMM.svg',
     }, //VSYMM
+    '0xB18A68588e4551B880011aF27DF5347B99b444C2': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png',
+    }, //VOL
+    '0xf5A960F8f0D04AaeDC44F2619977A2B7DE9CeF09': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/DNA.png',
+    }, //DNA
   },
 }
