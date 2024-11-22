@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-10-28T15:06:02.008Z",
+    "timestamp": "2024-11-22T15:37:03.240Z",
     "tokens": [
         {
             "chainId": 40,
@@ -480,14 +480,6 @@
             "symbol": "VANA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
-        },
-        {
-            "chainId": 14800,
-            "address": "0x3216EF647DFb90B73176e33fFe34EFF2456813A3",
-            "name": "Symmetric on Vana Moksha",
-            "symbol": "vSYMM",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VSYMM.svg"
         },
         {
             "chainId": 14800,
