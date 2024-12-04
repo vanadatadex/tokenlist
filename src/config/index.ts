@@ -15,6 +15,7 @@ import telosTestnet from './telos-testnet'
 import artelaBetanet from './artela-betanet'
 import taiko from './taiko'
 import etherlink from './etherlink'
+import vana from './vana'
 import vanaMoksha from './vana-moksha'
 
 const config: Configs = {
@@ -35,6 +36,7 @@ const config: Configs = {
   [Network.Taiko]: taiko,
   [Network.Etherlink]: etherlink,
   [Network.VanaMoksha]: vanaMoksha,
+  [Network.Vana]: vana,
 }
 
 export default config

@@ -21,7 +21,7 @@ import {
  * Run via `npm run generate`
  */
 async function run() {
-  const tokenlistsToBuild = ['symmetric']
+  const tokenlistsToBuild = ['symmetric', 'datadex']
   // getTokenlistsToBuild()
   for (const tokenlist of tokenlistsToBuild) {
     console.log(chalk.bgGreen(`Building tokenlist: ${tokenlist}`))
