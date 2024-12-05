@@ -47,5 +47,9 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/DNA.png',
     }, //DNA
+    '0xf379A80F0585E57fD5AeBb29d8caFAC60F8F54C3': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WDUDE.png',
+    }, //WDUDE
   },
 }

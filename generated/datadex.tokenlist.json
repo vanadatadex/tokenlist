@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-12-04T17:03:24.744Z",
+    "timestamp": "2024-12-05T17:11:40.516Z",
     "tokens": [
         {
             "chainId": 1480,
@@ -80,6 +80,14 @@
             "symbol": "DNA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/DNA.png"
+        },
+        {
+            "chainId": 14800,
+            "address": "0xf379A80F0585E57fD5AeBb29d8caFAC60F8F54C3",
+            "name": "WDUDE",
+            "symbol": "WDUDE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WDUDE.png"
         }
     ]
 }
