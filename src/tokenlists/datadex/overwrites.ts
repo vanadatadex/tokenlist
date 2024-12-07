@@ -3,18 +3,14 @@ import { Network, OverwritesForList } from '../../types'
 
 export const overwrites: OverwritesForList = {
   [Network.Vana]: {
-    '0x1Fe0eBD7B53fC434Ea0a69074406503F9Ab0e2FC': {
+    '0xF1815bd50389c46847f0Bda824eC8da914045D14': {
       logoURI:
         'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
-    }, //tUSDC
-    '0xC7623faa9e41DaAf854F07B5b45e70Cf1d68583E': {
+    }, //USDC.e
+    '0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590': {
       logoURI:
-        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
-    }, //tUSDT
-    '0xcEA086A4A08EcE04Bd060C7C0aB67033b7aDc088': {
-      logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
-    }, //tVANA
+        'https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x983147fb73a45fc7f8b4dfa1cd61bdc7b111e5b6.png',
+    }, //WETH
     '0x00EDdD9621Fb08436d0331c149D1690909a5906d': {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',

@@ -7,31 +7,23 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-12-05T17:11:40.516Z",
+    "timestamp": "2024-12-07T17:14:46.966Z",
     "tokens": [
         {
             "chainId": 1480,
-            "address": "0x1Fe0eBD7B53fC434Ea0a69074406503F9Ab0e2FC",
-            "name": "Test USDC",
-            "symbol": "tUSDC",
-            "decimals": 18,
+            "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+            "name": "Bridged USDC (Stargate)",
+            "symbol": "USDC.e",
+            "decimals": 6,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         {
             "chainId": 1480,
-            "address": "0xC7623faa9e41DaAf854F07B5b45e70Cf1d68583E",
-            "name": "Test USDT",
-            "symbol": "tUSDT",
+            "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+            "name": "WETH",
+            "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-        },
-        {
-            "chainId": 1480,
-            "address": "0xcEA086A4A08EcE04Bd060C7C0aB67033b7aDc088",
-            "name": "Test VANA",
-            "symbol": "tVANA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x983147fb73a45fc7f8b4dfa1cd61bdc7b111e5b6.png"
         },
         {
             "chainId": 1480,
