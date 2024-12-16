@@ -1,13 +1,13 @@
 {
     "name": "Data Dex",
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     },
     "keywords": [],
-    "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-12-16T07:58:05.084Z",
+    "logoURI": "https://pbs.twimg.com/profile_images/1868069942639165440/6H452fZC_400x400.jpg",
+    "timestamp": "2024-12-16T08:19:06.178Z",
     "tokens": [
         {
             "chainId": 1480,

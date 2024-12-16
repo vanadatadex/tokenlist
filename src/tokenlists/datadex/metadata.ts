@@ -1,6 +1,7 @@
 export const metadata = {
   name: 'Data Dex',
-  version: { major: 1, minor: 0, patch: 0 },
+  version: { major: 2, minor: 0, patch: 0 },
   keywords: [],
-  logoURI: 'https://mytokenlist.com/image.png',
+  logoURI:
+    'https://pbs.twimg.com/profile_images/1868069942639165440/6H452fZC_400x400.jpg',
 }
