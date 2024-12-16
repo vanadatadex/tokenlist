@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-12-07T17:14:46.966Z",
+    "timestamp": "2024-12-16T07:58:05.084Z",
     "tokens": [
         {
             "chainId": 1480,
@@ -32,6 +32,54 @@
             "symbol": "WVANA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xf23E379b2fd945F8c0A4F410Cb6EF9398bf022D6",
+            "name": "KLEONETWORK",
+            "symbol": "KDAT",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/kleo.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x84F8dC1AdA73298281387e62616470F3dD5Df2F6",
+            "name": "SIXGPT",
+            "symbol": "SIX",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/sixgpt.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x0CC1Bc0131DD9782e65ca0319Cd3a60eBA3a932d",
+            "name": "vFusion",
+            "symbol": "VFSN",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/dfusionsocialtruthdlp.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xEb68eF0550A5532447dA0FeA4F0ed9F804803B8B",
+            "name": "VOLARA",
+            "symbol": "VOL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x1Becf440e8Bcfc78cDFd45F29f7b1DC04df7777C",
+            "name": "FIN",
+            "symbol": "FIN",
+            "decimals": 18,
+            "logoURI": "https://finquarium.com/logo-solid-bg.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xf8f97A79A3fa77104faB4814E3ed93899777dE0D",
+            "name": "Gertrude",
+            "symbol": "GDP",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/datapig.jpeg"
         },
         {
             "chainId": 14800,

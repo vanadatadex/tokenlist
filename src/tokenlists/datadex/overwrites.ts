@@ -15,6 +15,29 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
     }, //WVANA
+    '0xf23E379b2fd945F8c0A4F410Cb6EF9398bf022D6': {
+      logoURI:
+        'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/kleo.png',
+    }, //KLEO
+    '0x84F8dC1AdA73298281387e62616470F3dD5Df2F6': {
+      logoURI:
+        'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/sixgpt.png',
+    }, //SIXGPT
+    '0x0CC1Bc0131DD9782e65ca0319Cd3a60eBA3a932d': {
+      logoURI:
+        'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/dfusionsocialtruthdlp.png',
+    }, //DFUSION
+    '0xEb68eF0550A5532447dA0FeA4F0ed9F804803B8B': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png',
+    }, //VOLARA
+    '0x1Becf440e8Bcfc78cDFd45F29f7b1DC04df7777C': {
+      logoURI: 'https://finquarium.com/logo-solid-bg.png',
+    }, //FIN
+    '0xf8f97A79A3fa77104faB4814E3ed93899777dE0D': {
+      logoURI:
+        'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/datapig.jpeg',
+    }, //GDP
   },
   [Network.VanaMoksha]: {
     '0xB39a50B5806039C82932bB96CEFbcbc61231045C': {
