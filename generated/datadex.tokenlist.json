@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://pbs.twimg.com/profile_images/1868069942639165440/6H452fZC_400x400.jpg",
-    "timestamp": "2024-12-18T12:40:48.849Z",
+    "timestamp": "2024-12-18T13:20:05.385Z",
     "tokens": [
         {
             "chainId": 1480,
@@ -32,6 +32,14 @@
             "symbol": "WVANA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x37E14058582594FEB08824b81c7E5810576b5306",
+            "name": "Dobbie the Vana Dog",
+            "symbol": "$DOBBIE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/DOBBIE.png"
         },
         {
             "chainId": 1480,
