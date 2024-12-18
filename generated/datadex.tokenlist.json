@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://pbs.twimg.com/profile_images/1868069942639165440/6H452fZC_400x400.jpg",
-    "timestamp": "2024-12-16T08:19:06.178Z",
+    "timestamp": "2024-12-18T12:40:48.849Z",
     "tokens": [
         {
             "chainId": 1480,
@@ -80,6 +80,38 @@
             "symbol": "GDP",
             "decimals": 18,
             "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/datapig.jpeg"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xD561ce710fF7Ce7d93fd7B1F0fF1B1989Fe7256E",
+            "name": "MindDAO",
+            "symbol": "MIND",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/minddao.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xC7a473434290671cffeA503ca4b7b160f929C1eC",
+            "name": "DNA Token",
+            "symbol": "DNA",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/dnadatadao.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x579c80E02Ef43345Ce3A4C833c49da9730BD0f3f",
+            "name": "PRIME",
+            "symbol": "$PRIME",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/primeinsights.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xfB41a4a2d2afF36d42b7388aD666dDA43f6c923f",
+            "name": "vChars AI",
+            "symbol": "CHAR",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/vchars_ai.png"
         },
         {
             "chainId": 14800,

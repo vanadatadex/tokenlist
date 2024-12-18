@@ -38,6 +38,22 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/datapig.jpeg',
     }, //GDP
+    '0xD561ce710fF7Ce7d93fd7B1F0fF1B1989Fe7256E': {
+      logoURI:
+        'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/minddao.png',
+    }, //MindDAO
+    '0xC7a473434290671cffeA503ca4b7b160f929C1eC': {
+      logoURI:
+        'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/dnadatadao.png',
+    }, //DNA DATADAO
+    '0x579c80E02Ef43345Ce3A4C833c49da9730BD0f3f': {
+      logoURI:
+        'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/primeinsights.png',
+    }, //Prime Insights
+    '0xfB41a4a2d2afF36d42b7388aD666dDA43f6c923f': {
+      logoURI:
+        'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/vchars_ai.png',
+    }, //vCHARS AI
   },
   [Network.VanaMoksha]: {
     '0xB39a50B5806039C82932bB96CEFbcbc61231045C': {
