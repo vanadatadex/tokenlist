@@ -50,10 +50,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/primeinsights.png',
     }, //Prime Insights
-    '0xfB41a4a2d2afF36d42b7388aD666dDA43f6c923f': {
-      logoURI:
-        'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/vchars_ai.png',
-    }, //vCHARS AI
+    // '0xfB41a4a2d2afF36d42b7388aD666dDA43f6c923f': {
+    //   logoURI:
+    //     'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/vchars_ai.png',
+    // }, //vCHARS AI
   },
   [Network.VanaMoksha]: {
     '0xB39a50B5806039C82932bB96CEFbcbc61231045C': {
