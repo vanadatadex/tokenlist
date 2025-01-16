@@ -32,7 +32,7 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png',
     }, //VOLARA
     '0x1Becf440e8Bcfc78cDFd45F29f7b1DC04df7777C': {
-      logoURI: 'https://finquarium.com/logo-solid-bg.png',
+      logoURI: 'https://finquarium.com/images/logo.png',
     }, //FIN
     '0xf8f97A79A3fa77104faB4814E3ed93899777dE0D': {
       logoURI:

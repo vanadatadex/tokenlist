@@ -1,13 +1,13 @@
 {
     "name": "Data Dex",
     "version": {
-        "major": 4,
+        "major": 5,
         "minor": 0,
         "patch": 0
     },
     "keywords": [],
     "logoURI": "https://pbs.twimg.com/profile_images/1868069942639165440/6H452fZC_400x400.jpg",
-    "timestamp": "2024-12-23T22:19:44.451Z",
+    "timestamp": "2025-01-16T15:05:10.663Z",
     "tokens": [
         {
             "chainId": 1480,
@@ -71,7 +71,7 @@
             "name": "FIN",
             "symbol": "FIN",
             "decimals": 18,
-            "logoURI": "https://finquarium.com/logo-solid-bg.png"
+            "logoURI": "https://finquarium.com/images/logo.png"
         },
         {
             "chainId": 1480,
