@@ -330,4 +330,26 @@ export const overwrites: OverwritesForList = {
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/DNA.png',
     }, //DNA
   },
+  [Network.Artela]: {
+    '0x4a869ed6b3f74dC41537EF27e8eB3A8676AE4614': {
+      logoURI:
+        'https://resources.accumulated.finance/tokens/11820/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png',
+    }, //ART
+    '0xdd58D43a829067129B8C37f1924D31B1896ac0C6': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/aSYMM.png',
+    }, //aSYMM
+    '0xcba2aeec821b0b119857a9ab39e09b034249681a': {
+      logoURI:
+        'https://resources.accumulated.finance/tokens/11820/0xcba2aeec821b0b119857a9ab39e09b034249681a.png',
+    }, //stART
+    '0x7ac168c81f4f3820fa3f22603ce5864d6ab3c547': {
+      logoURI:
+        'https://resources.accumulated.finance/tokens/11820/0x7ac168c81f4f3820fa3f22603ce5864d6ab3c547.png',
+    }, //wstART
+    '0x8d9Bd7E9ec3cd799a659EE650DfF6C799309fA91': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+    }, //USDC
+  },
 }

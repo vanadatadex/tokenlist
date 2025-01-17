@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2024-11-22T15:37:03.240Z",
+    "timestamp": "2025-01-17T00:56:19.986Z",
     "tokens": [
         {
             "chainId": 40,
@@ -400,6 +400,46 @@
             "symbol": "MTRG-wstMTRG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/MTRG-wstMTRG.png"
+        },
+        {
+            "chainId": 11820,
+            "address": "0x4a869ed6b3f74dC41537EF27e8eB3A8676AE4614",
+            "name": "Wrapped Artela",
+            "symbol": "ART",
+            "decimals": 18,
+            "logoURI": "https://resources.accumulated.finance/tokens/11820/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+        },
+        {
+            "chainId": 11820,
+            "address": "0xdd58D43a829067129B8C37f1924D31B1896ac0C6",
+            "name": "Symmetric on Artela",
+            "symbol": "aSYMM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/aSYMM.png"
+        },
+        {
+            "chainId": 11820,
+            "address": "0xcba2aeEc821b0B119857a9aB39E09b034249681A",
+            "name": "stART",
+            "symbol": "stART",
+            "decimals": 18,
+            "logoURI": "https://resources.accumulated.finance/tokens/11820/0xcba2aeec821b0b119857a9ab39e09b034249681a.png"
+        },
+        {
+            "chainId": 11820,
+            "address": "0x7AC168c81F4F3820Fa3F22603ce5864D6aB3C547",
+            "name": "wstART",
+            "symbol": "wstART",
+            "decimals": 18,
+            "logoURI": "https://resources.accumulated.finance/tokens/11820/0x7ac168c81f4f3820fa3f22603ce5864d6ab3c547.png"
+        },
+        {
+            "chainId": 11820,
+            "address": "0x8d9Bd7E9ec3cd799a659EE650DfF6C799309fA91",
+            "name": "USD Coin",
+            "symbol": "USDC.a",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         {
             "chainId": 11822,

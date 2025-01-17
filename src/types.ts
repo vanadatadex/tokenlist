@@ -14,6 +14,7 @@ export enum Network {
   Telos = '40',
   Meter = '82',
   TelosTestnet = '41',
+  Artela = '11820',
   ArtelaBetanet = '11822',
   Taiko = '167000',
   Etherlink = '42793',

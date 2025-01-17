@@ -13,6 +13,7 @@ import telos from './telos'
 import meter from './meter'
 import telosTestnet from './telos-testnet'
 import artelaBetanet from './artela-betanet'
+import artela from './artela'
 import taiko from './taiko'
 import etherlink from './etherlink'
 import vana from './vana'
@@ -32,6 +33,7 @@ const config: Configs = {
   [Network.Telos]: telos,
   [Network.Meter]: meter,
   [Network.TelosTestnet]: telosTestnet,
+  [Network.Artela]: artela,
   [Network.ArtelaBetanet]: artelaBetanet,
   [Network.Taiko]: taiko,
   [Network.Etherlink]: etherlink,
