@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2025-01-17T00:56:19.986Z",
+    "timestamp": "2025-01-17T19:19:24.437Z",
     "tokens": [
         {
             "chainId": 40,
@@ -405,7 +405,7 @@
             "chainId": 11820,
             "address": "0x4a869ed6b3f74dC41537EF27e8eB3A8676AE4614",
             "name": "Wrapped Artela",
-            "symbol": "ART",
+            "symbol": "wART",
             "decimals": 18,
             "logoURI": "https://resources.accumulated.finance/tokens/11820/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
         },
