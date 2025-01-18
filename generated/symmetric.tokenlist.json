@@ -405,7 +405,7 @@
             "chainId": 11820,
             "address": "0x4a869ed6b3f74dC41537EF27e8eB3A8676AE4614",
             "name": "Wrapped Artela",
-            "symbol": "wART",
+            "symbol": "ART",
             "decimals": 18,
             "logoURI": "https://resources.accumulated.finance/tokens/11820/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
         },
