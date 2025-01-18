@@ -332,7 +332,6 @@ export const overwrites: OverwritesForList = {
   },
   [Network.Artela]: {
     '0x4a869ed6b3f74dC41537EF27e8eB3A8676AE4614': {
-      symbol: 'wART',
       logoURI:
         'https://resources.accumulated.finance/tokens/11820/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png',
     }, //ART
