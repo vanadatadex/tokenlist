@@ -134,6 +134,21 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/TAPAS.jpg',
     }, //TAPAS
+    '0xf1815bd50389c46847f0bda824ec8da914045d14': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+    }, // USDC.e
+    '0x674843c06ff83502ddb4d37c2e09c01cda38cbc8': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
+    }, // USDT
+    '0x0555e30da8f98308edb960aa94c0db47230d2b9c': {
+      logoURI:
+        'https://res.coinpaper.com/coinpaper/wrapped_bitcoin_wbtc_logo_b8ecd60f3f.png',
+    }, //WBTC
+    '0xbab93b7ad7fe8692a878b95a8e689423437cc500': {
+      logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
+    }, //WETH
   },
   [Network.Meter]: {
     '0x663345e09F4F4437F3D5df39BA5c2B5690532206': {
