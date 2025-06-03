@@ -149,6 +149,22 @@ export const overwrites: OverwritesForList = {
     '0xbab93b7ad7fe8692a878b95a8e689423437cc500': {
       logoURI: 'https://cryptologos.cc/logos/ethereum-eth-logo.png',
     }, //WETH
+    '0x59716b2745aB9639b1685609863b3bD63873aD02': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png',
+    }, //woUSDC.e
+    '0x738471f8cB40aeFC54a95E08C574619495958E31': {
+      logoURI:
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png',
+    }, //woUSDT
+    '0x331a4CD2BdB5B27F41D84b0b9F029829934F7327': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/USDM.png',
+    }, //woUSDM
+    '0xd9d50bC52061bb29045Da753776B1367fA6e3Ad0': {
+      logoURI:
+        'https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png',
+    }, //woWTLOS
   },
   [Network.Meter]: {
     '0x663345e09F4F4437F3D5df39BA5c2B5690532206': {

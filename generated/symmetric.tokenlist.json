@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://mytokenlist.com/image.png",
-    "timestamp": "2025-03-19T11:37:50.074Z",
+    "timestamp": "2025-06-03T08:18:19.612Z",
     "tokens": [
         {
             "chainId": 40,
@@ -290,6 +290,38 @@
             "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
         },
         {
+            "chainId": 40,
+            "address": "0x59716b2745aB9639b1685609863b3bD63873aD02",
+            "name": "ERC4626-Wrapped Meridian Lend USDC.e",
+            "symbol": "woUSDC.e",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x738471f8cB40aeFC54a95E08C574619495958E31",
+            "name": "ERC4626-Wrapped Meridian Lend USDT",
+            "symbol": "woUSDT",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0x331a4CD2BdB5B27F41D84b0b9F029829934F7327",
+            "name": "ERC4626-Wrapped Meridian Lend USDM",
+            "symbol": "woUSDM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/USDM.png"
+        },
+        {
+            "chainId": 40,
+            "address": "0xd9d50bC52061bb29045Da753776B1367fA6e3Ad0",
+            "name": "ERC4626-Wrapped Meridian Lend WTLOS",
+            "symbol": "woWTLOS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png"
+        },
+        {
             "chainId": 41,
             "address": "0x7e3dAe5fd8FaED7C3Bef04F987c2eF68A9A350A4",
             "name": "Symmetric",
@@ -432,142 +464,6 @@
             "symbol": "MTRG-wstMTRG",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/MTRG-wstMTRG.png"
-        },
-        {
-            "chainId": 11820,
-            "address": "0x4a869ed6b3f74dC41537EF27e8eB3A8676AE4614",
-            "name": "Wrapped Artela",
-            "symbol": "ART",
-            "decimals": 18,
-            "logoURI": "https://resources.accumulated.finance/tokens/11820/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
-        },
-        {
-            "chainId": 11820,
-            "address": "0xdd58D43a829067129B8C37f1924D31B1896ac0C6",
-            "name": "Symmetric on Artela",
-            "symbol": "aSYMM",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/aSYMM.png"
-        },
-        {
-            "chainId": 11820,
-            "address": "0xcba2aeEc821b0B119857a9aB39E09b034249681A",
-            "name": "stART",
-            "symbol": "stART",
-            "decimals": 18,
-            "logoURI": "https://resources.accumulated.finance/tokens/11820/0xcba2aeec821b0b119857a9ab39e09b034249681a.png"
-        },
-        {
-            "chainId": 11820,
-            "address": "0x7AC168c81F4F3820Fa3F22603ce5864D6aB3C547",
-            "name": "wstART",
-            "symbol": "wstART",
-            "decimals": 18,
-            "logoURI": "https://resources.accumulated.finance/tokens/11820/0x7ac168c81f4f3820fa3f22603ce5864d6ab3c547.png"
-        },
-        {
-            "chainId": 11820,
-            "address": "0x8d9Bd7E9ec3cd799a659EE650DfF6C799309fA91",
-            "name": "USD Coin",
-            "symbol": "USDC.a",
-            "decimals": 6,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-        },
-        {
-            "chainId": 11822,
-            "address": "0x23625fF2AEC3A5e3459a9FD75661a135c567B072",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-        },
-        {
-            "chainId": 11822,
-            "address": "0x729C714A7cbF5599AA121489b0386537b1347e5e",
-            "name": "Tether",
-            "symbol": "USDT",
-            "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-        },
-        {
-            "chainId": 11822,
-            "address": "0x4a869ed6b3f74dC41537EF27e8eB3A8676AE4614",
-            "name": "Symmetric on Artela",
-            "symbol": "aSYMM",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/aSYMM.png"
-        },
-        {
-            "chainId": 11822,
-            "address": "0xaDCd43c78A914c6B14171aB1380bCFcfa25cd3AD",
-            "name": "Wrapped Art",
-            "symbol": "wART",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WART.png"
-        },
-        {
-            "chainId": 11822,
-            "address": "0x7bf8b8Da6E71ebc92383dAf6f32F82b073a303cD",
-            "name": "Ethereum",
-            "symbol": "ETH",
-            "decimals": 18,
-            "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
-        },
-        {
-            "chainId": 11822,
-            "address": "0x9c9dF9E55f4770132e586f32741D7e4F80C39B2a",
-            "name": "Wrapped Bitcoin",
-            "symbol": "WBTC",
-            "decimals": 18,
-            "logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
-        },
-        {
-            "chainId": 11822,
-            "address": "0xDFEe275C6491Be5833404d6134a08d81e46b08D8",
-            "name": "Artela USD",
-            "symbol": "aUSD",
-            "decimals": 6,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-        },
-        {
-            "chainId": 14800,
-            "address": "0xB39a50B5806039C82932bB96CEFbcbc61231045C",
-            "name": "USDC",
-            "symbol": "USDC",
-            "decimals": 6,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-        },
-        {
-            "chainId": 14800,
-            "address": "0x01079C78199e05D44bBFF9E50Dbdf765489F16E1",
-            "name": "USDT",
-            "symbol": "USDT",
-            "decimals": 6,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-        },
-        {
-            "chainId": 14800,
-            "address": "0xbccc4b4c6530F82FE309c5E845E50b5E9C89f2AD",
-            "name": "Wrapped Vana",
-            "symbol": "VANA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
-        },
-        {
-            "chainId": 14800,
-            "address": "0xB18A68588e4551B880011aF27DF5347B99b444C2",
-            "name": "VOLARA",
-            "symbol": "VOL",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png"
-        },
-        {
-            "chainId": 14800,
-            "address": "0xf5A960F8f0D04AaeDC44F2619977A2B7DE9CeF09",
-            "name": "DNA",
-            "symbol": "DNA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/DNA.png"
         },
         {
             "chainId": 42793,
