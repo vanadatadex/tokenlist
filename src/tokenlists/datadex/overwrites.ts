@@ -17,7 +17,7 @@ export const overwrites: OverwritesForList = {
     }, //WVANA
     '0x202f120C83dCFcE04A1723aE7Ec7CdBd2eD73302': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
+        'https://github.com/centfinance/tokenlists/blob/0b035c9136f4f5f7c3aa6f5cfb39dba46a42b556/src/assets/images/tokens/WWW.png',
     }, //WWWW
     '0xf23E379b2fd945F8c0A4F410Cb6EF9398bf022D6': {
       logoURI:
