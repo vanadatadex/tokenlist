@@ -15,6 +15,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
     }, //WVANA
+    '0x202f120C83dCFcE04A1723aE7Ec7CdBd2eD73302': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
+    }, //WWWW
     '0xf23E379b2fd945F8c0A4F410Cb6EF9398bf022D6': {
       logoURI:
         'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/kleo.png',
