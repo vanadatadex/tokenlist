@@ -19,6 +19,14 @@
         },
         {
             "chainId": 1480,
+            "address": "0x202f120C83dCFcE04A1723aE7Ec7CdBd2eD73302",
+            "name": "YKYR",
+            "symbol": "WWW",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
+        },
+        {
+            "chainId": 1480,
             "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
             "name": "WETH",
             "symbol": "WETH",
