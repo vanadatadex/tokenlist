@@ -20,10 +20,10 @@
         {
             "chainId": 1480,
             "address": "0x202f120C83dCFcE04A1723aE7Ec7CdBd2eD73302",
-            "name": "YKYR",
+            "name": "WWW",
             "symbol": "WWW",
             "decimals": 18,
-            "logoURI": "https://github.com/centfinance/tokenlists/blob/0b035c9136f4f5f7c3aa6f5cfb39dba46a42b556/src/assets/images/tokens/WWW.png"
+            "logoURI": "https://raw.githubusercontent.com/ykyrnow/ykyr-docs/refs/heads/main/public/images/www-logo-mark.svg"
         },
         {
             "chainId": 1480,
