@@ -39,7 +39,7 @@
             "name": "Wrapped Vana",
             "symbol": "WVANA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
+            "logoURI": "https://github.com/centfinance/tokenlists/blob/0270d7362d81e3ce9bac529d861f6dcb4ba06c9b/src/assets/images/tokens/vananew.svg"
         },
         {
             "chainId": 1480,
@@ -135,7 +135,7 @@
             "name": "Wrapped Vana",
             "symbol": "VANA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
+            "logoURI": "https://github.com/centfinance/tokenlists/blob/0270d7362d81e3ce9bac529d861f6dcb4ba06c9b/src/assets/images/tokens/vananew.svg"
         },
         {
             "chainId": 14800,
