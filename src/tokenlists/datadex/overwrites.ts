@@ -13,8 +13,12 @@ export const overwrites: OverwritesForList = {
     }, //WETH
     '0x00EDdD9621Fb08436d0331c149D1690909a5906d': {
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
+        'https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/vananew.svg',
     }, //WVANA
+    '0x202f120C83dCFcE04A1723aE7Ec7CdBd2eD73302': {
+      logoURI:
+        'https://raw.githubusercontent.com/ykyrnow/ykyr-docs/refs/heads/main/public/images/www-logo-mark.svg',
+    }, //WWWW
     '0xf23E379b2fd945F8c0A4F410Cb6EF9398bf022D6': {
       logoURI:
         'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/kleo.png',
@@ -72,7 +76,7 @@ export const overwrites: OverwritesForList = {
       name: 'Wrapped Vana',
       symbol: 'VANA',
       logoURI:
-        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg',
+        'https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/vananew.svg',
     }, //WVANA
     '0x3216EF647DFb90B73176e33fFe34EFF2456813A3': {
       logoURI:

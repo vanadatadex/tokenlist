@@ -19,6 +19,14 @@
         },
         {
             "chainId": 1480,
+            "address": "0x202f120C83dCFcE04A1723aE7Ec7CdBd2eD73302",
+            "name": "WWW",
+            "symbol": "WWW",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ykyrnow/ykyr-docs/refs/heads/main/public/images/www-logo-mark.svg"
+        },
+        {
+            "chainId": 1480,
             "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
             "name": "WETH",
             "symbol": "WETH",
@@ -31,7 +39,7 @@
             "name": "Wrapped Vana",
             "symbol": "WVANA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/vananew.svg"
         },
         {
             "chainId": 1480,
@@ -135,7 +143,7 @@
             "name": "Wrapped Vana",
             "symbol": "VANA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WVANA.svg"
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/vananew.svg"
         },
         {
             "chainId": 14800,
