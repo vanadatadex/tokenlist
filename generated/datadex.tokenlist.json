@@ -1,173 +1,173 @@
 {
-  "name": "Data Dex",
-  "version": {
-    "major": 7,
-    "minor": 0,
-    "patch": 0
-  },
-  "keywords": [],
-  "logoURI": "https://pbs.twimg.com/profile_images/1868069942639165440/6H452fZC_400x400.jpg",
-  "timestamp": "2025-06-20T10:34:45.809Z",
-  "tokens": [
-    {
-      "chainId": 1480,
-      "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
-      "name": "Bridged USDC (Stargate)",
-      "symbol": "USDC.e",
-      "decimals": 6,
-      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "name": "Data Dex",
+    "version": {
+        "major": 6,
+        "minor": 0,
+        "patch": 0
     },
-    {
-      "chainId": 1480,
-      "address": "0x202f120C83dCFcE04A1723aE7Ec7CdBd2eD73302",
-      "name": "WWW",
-      "symbol": "WWW",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ykyrnow/ykyr-docs/refs/heads/main/public/images/www-logo-mark.svg"
-    },
-    {
-      "chainId": 1480,
-      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
-      "name": "WETH",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x983147fb73a45fc7f8b4dfa1cd61bdc7b111e5b6.png"
-    },
-    {
-      "chainId": 1480,
-      "address": "0x00EDdD9621Fb08436d0331c149D1690909a5906d",
-      "name": "Wrapped Vana",
-      "symbol": "WVANA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/vananew.svg"
-    },
-    {
-      "chainId": 1480,
-      "address": "0xf23E379b2fd945F8c0A4F410Cb6EF9398bf022D6",
-      "name": "KLEONETWORK",
-      "symbol": "KDAT",
-      "decimals": 18,
-      "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/kleo.png"
-    },
-    {
-      "chainId": 1480,
-      "address": "0x84F8dC1AdA73298281387e62616470F3dD5Df2F6",
-      "name": "SIXGPT",
-      "symbol": "SIX",
-      "decimals": 18,
-      "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/sixgpt.png"
-    },
-    {
-      "chainId": 1480,
-      "address": "0x0CC1Bc0131DD9782e65ca0319Cd3a60eBA3a932d",
-      "name": "vFusion",
-      "symbol": "VFSN",
-      "decimals": 18,
-      "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/dfusionsocialtruthdlp.png"
-    },
-    {
-      "chainId": 1480,
-      "address": "0xEb68eF0550A5532447dA0FeA4F0ed9F804803B8B",
-      "name": "VOLARA",
-      "symbol": "VOL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png"
-    },
-    {
-      "chainId": 1480,
-      "address": "0x1Becf440e8Bcfc78cDFd45F29f7b1DC04df7777C",
-      "name": "FIN",
-      "symbol": "FIN",
-      "decimals": 18,
-      "logoURI": "https://finquarium.com/images/logo.png"
-    },
-    {
-      "chainId": 1480,
-      "address": "0xf8f97A79A3fa77104faB4814E3ed93899777dE0D",
-      "name": "Gertrude",
-      "symbol": "GDP",
-      "decimals": 18,
-      "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/datapig.jpeg"
-    },
-    {
-      "chainId": 1480,
-      "address": "0xD561ce710fF7Ce7d93fd7B1F0fF1B1989Fe7256E",
-      "name": "MindDAO",
-      "symbol": "MIND",
-      "decimals": 18,
-      "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/minddao.png"
-    },
-    {
-      "chainId": 1480,
-      "address": "0xC7a473434290671cffeA503ca4b7b160f929C1eC",
-      "name": "DNA Token",
-      "symbol": "DNA",
-      "decimals": 18,
-      "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/dnadatadao.png"
-    },
-    {
-      "chainId": 1480,
-      "address": "0x579c80E02Ef43345Ce3A4C833c49da9730BD0f3f",
-      "name": "PRIME",
-      "symbol": "$PRIME",
-      "decimals": 18,
-      "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/primeinsights.png"
-    },
-    {
-      "chainId": 1480,
-      "address": "0x17Ba7a5603fdd6F07A1dA23c843e16e60987c7f7",
-      "name": "BOPS",
-      "symbol": "BOPS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/BOP.jpg"
-    },
-    {
-      "chainId": 14800,
-      "address": "0xB39a50B5806039C82932bB96CEFbcbc61231045C",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-      "chainId": 14800,
-      "address": "0x01079C78199e05D44bBFF9E50Dbdf765489F16E1",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "chainId": 14800,
-      "address": "0xbccc4b4c6530F82FE309c5E845E50b5E9C89f2AD",
-      "name": "Wrapped Vana",
-      "symbol": "VANA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/vananew.svg"
-    },
-    {
-      "chainId": 14800,
-      "address": "0xB18A68588e4551B880011aF27DF5347B99b444C2",
-      "name": "VOLARA",
-      "symbol": "VOL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png"
-    },
-    {
-      "chainId": 14800,
-      "address": "0xf5A960F8f0D04AaeDC44F2619977A2B7DE9CeF09",
-      "name": "DNA",
-      "symbol": "DNA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/DNA.png"
-    },
-    {
-      "chainId": 14800,
-      "address": "0xf379A80F0585E57fD5AeBb29d8caFAC60F8F54C3",
-      "name": "WDUDE",
-      "symbol": "WDUDE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WDUDE.png"
-    }
-  ]
+    "keywords": [],
+    "logoURI": "https://pbs.twimg.com/profile_images/1868069942639165440/6H452fZC_400x400.jpg",
+    "timestamp": "2025-06-20T10:41:21.206Z",
+    "tokens": [
+        {
+            "chainId": 1480,
+            "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+            "name": "Bridged USDC (Stargate)",
+            "symbol": "USDC.e",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x202f120C83dCFcE04A1723aE7Ec7CdBd2eD73302",
+            "name": "WWW",
+            "symbol": "WWW",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ykyrnow/ykyr-docs/refs/heads/main/public/images/www-logo-mark.svg"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+            "name": "WETH",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/generated/token-logos/meter/0x983147fb73a45fc7f8b4dfa1cd61bdc7b111e5b6.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x00EDdD9621Fb08436d0331c149D1690909a5906d",
+            "name": "Wrapped Vana",
+            "symbol": "WVANA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/vananew.svg"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xf23E379b2fd945F8c0A4F410Cb6EF9398bf022D6",
+            "name": "KLEONETWORK",
+            "symbol": "KDAT",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/kleo.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x84F8dC1AdA73298281387e62616470F3dD5Df2F6",
+            "name": "SIXGPT",
+            "symbol": "SIX",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/sixgpt.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x0CC1Bc0131DD9782e65ca0319Cd3a60eBA3a932d",
+            "name": "vFusion",
+            "symbol": "VFSN",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/dfusionsocialtruthdlp.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xEb68eF0550A5532447dA0FeA4F0ed9F804803B8B",
+            "name": "VOLARA",
+            "symbol": "VOL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x1Becf440e8Bcfc78cDFd45F29f7b1DC04df7777C",
+            "name": "FIN",
+            "symbol": "FIN",
+            "decimals": 18,
+            "logoURI": "https://finquarium.com/images/logo.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xf8f97A79A3fa77104faB4814E3ed93899777dE0D",
+            "name": "Gertrude",
+            "symbol": "GDP",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/datapig.jpeg"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xD561ce710fF7Ce7d93fd7B1F0fF1B1989Fe7256E",
+            "name": "MindDAO",
+            "symbol": "MIND",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/minddao.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xC7a473434290671cffeA503ca4b7b160f929C1eC",
+            "name": "DNA Token",
+            "symbol": "DNA",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/dnadatadao.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x579c80E02Ef43345Ce3A4C833c49da9730BD0f3f",
+            "name": "PRIME",
+            "symbol": "$PRIME",
+            "decimals": 18,
+            "logoURI": "https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/primeinsights.png"
+        },
+        {
+            "chainId": 1480,
+            "address": "0x17Ba7a5603fdd6F07A1dA23c843e16e60987c7f7",
+            "name": "BOPS",
+            "symbol": "BOPS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/BOP.jpg"
+        },
+        {
+            "chainId": 14800,
+            "address": "0xB39a50B5806039C82932bB96CEFbcbc61231045C",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "chainId": 14800,
+            "address": "0x01079C78199e05D44bBFF9E50Dbdf765489F16E1",
+            "name": "USDT",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 14800,
+            "address": "0xbccc4b4c6530F82FE309c5E845E50b5E9C89f2AD",
+            "name": "Wrapped Vana",
+            "symbol": "VANA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/refs/heads/main/src/assets/images/tokens/vananew.svg"
+        },
+        {
+            "chainId": 14800,
+            "address": "0xB18A68588e4551B880011aF27DF5347B99b444C2",
+            "name": "VOLARA",
+            "symbol": "VOL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/VOLARA.png"
+        },
+        {
+            "chainId": 14800,
+            "address": "0xf5A960F8f0D04AaeDC44F2619977A2B7DE9CeF09",
+            "name": "DNA",
+            "symbol": "DNA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/DNA.png"
+        },
+        {
+            "chainId": 14800,
+            "address": "0xf379A80F0585E57fD5AeBb29d8caFAC60F8F54C3",
+            "name": "WDUDE",
+            "symbol": "WDUDE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/WDUDE.png"
+        }
+    ]
 }
