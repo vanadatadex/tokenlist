@@ -54,6 +54,10 @@ export const overwrites: OverwritesForList = {
     //   logoURI:
     //     'https://ohhoeotttdfnlowymysp.supabase.co/storage/v1/object/public/images-public/daos/icons/vchars_ai.png',
     // }, //vCHARS AI
+    '0x17Ba7a5603fdd6F07A1dA23c843e16e60987c7f7': {
+      logoURI:
+        'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/BOP.jpg',
+    }, //BOP
   },
   [Network.VanaMoksha]: {
     '0xB39a50B5806039C82932bB96CEFbcbc61231045C': {

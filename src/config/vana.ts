@@ -1,6 +1,6 @@
 export default {
   name: 'Vana',
-  rpc: 'https://rpc.islander.vana.org',
+  rpc: 'https://rpc.vana.org',
   coingecko: {
     platformId: 'vana',
   },
