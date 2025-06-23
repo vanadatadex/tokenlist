@@ -21,9 +21,13 @@ Token data and metadata are defined in:
 2. (If needed) Edit metadata in:
 - `src/tokenlists/datadex/metadata.ts`
 
-
 3. **Generate the updated tokenlist:**
-
 ```bash
 npm install
 npm run generate
+```
+The output file will be saved to:
+- `generated/datadex.tokenlist.json`
+
+
+
