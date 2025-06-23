@@ -7,7 +7,7 @@
     },
     "keywords": [],
     "logoURI": "https://pbs.twimg.com/profile_images/1868069942639165440/6H452fZC_400x400.jpg",
-    "timestamp": "2025-06-20T10:48:22.840Z",
+    "timestamp": "2025-06-23T12:14:12.455Z",
     "tokens": [
         {
             "chainId": 1480,
@@ -120,6 +120,14 @@
             "symbol": "BOPS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/BOP.jpg"
+        },
+        {
+            "chainId": 1480,
+            "address": "0xAD881d0F795B07DaAd6a23389D5AB8fc596C1eAF",
+            "name": "REM",
+            "symbol": "REM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/REM.jpg"
         },
         {
             "chainId": 14800,

@@ -14,4 +14,5 @@ export default [
   '0x579c80E02Ef43345Ce3A4C833c49da9730BD0f3f', //Prime Insights
   // ''0xfB41a4a2d2afF36d42b7388aD666dDA43f6c923f', //vCHARS AI
   '0x17Ba7a5603fdd6F07A1dA23c843e16e60987c7f7', //BOP
+  '0xad881d0f795b07daad6a23389d5ab8fc596c1eaf', //REM
 ]
