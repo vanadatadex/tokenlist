@@ -29,5 +29,21 @@ npm run generate
 The output file will be saved to:
 - `generated/datadex.tokenlist.json`
 
+---
+
+🛡 License
+
+This project is licensed under GPL-3.0.
+
+---
+
+🌐 Learn More
+
+Main Site: https://datadex.com
+
+Analytics Dashboard: https://info.datadex.com/#/vana
+
+Tokenlist Repo: https://github.com/vanadatadex/tokenlist
+
 
 
