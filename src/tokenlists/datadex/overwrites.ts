@@ -66,6 +66,10 @@ export const overwrites: OverwritesForList = {
       logoURI:
         'https://raw.githubusercontent.com/centfinance/tokenlists/main/src/assets/images/tokens/REM.jpg',
     }, //REM
+    '0x0D32E3B41E0Dbb17192b6b0d26Ef018d31f175b5': {
+      logoURI:
+        'https://github.com/centfinance/tokenlists/blob/2c0d4786726cd85627c7175651cae9edeb2c268a/src/assets/images/tokens/GPT.jpg',
+    }, //GPT
   },
   [Network.VanaMoksha]: {
     '0xB39a50B5806039C82932bB96CEFbcbc61231045C': {
